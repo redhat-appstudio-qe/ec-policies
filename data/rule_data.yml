@@ -10,6 +10,7 @@ rule_data:
   - quay.io/redhat-appstudio/
   - registry.access.redhat.com/
   - registry.redhat.io/
+  - quay.io/openshift-release-dev/
 
   allowed_java_component_sources:
   - redhat
